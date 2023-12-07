@@ -1,5 +1,20 @@
-### Hi there 👋
+# 🤔🤔🤔🤔🤔🤔🤔
 
+소속: 영남이공대학교
+
+학과: **소프트웨어콘텐츠**
+
+관심분야: *프론트엔드, 백엔드, 웹사이트 제작*
+
+---
+
+**안녕하세요**
+
+### 깃허브 작성
+1. 원격 저장소 만들기
+2. 지역 저장소 연결하기
+
+[영남이공대학교](https://www.ync.ac.kr)
 <!--
 **machineNAYO/machineNAYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
