@@ -15,6 +15,8 @@
 2. 지역 저장소 연결하기
 
 [영남이공대학교](https://www.ync.ac.kr)
+
+![프로필 이미지](./4907157.jpg)
 <!--
 **machineNAYO/machineNAYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
